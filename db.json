@@ -1,0 +1,47 @@
+{
+  "employee": [
+    {
+      "id": "5697",
+      "fname": "Romil",
+      "lname": "Desai",
+      "email": "r@gmail.com",
+      "password": "scdscsd",
+      "gender": "male",
+      "hobby": [
+        "dancing",
+        "singing",
+        "ridding"
+      ],
+      "address": "Pimpli",
+      "city": "pune"
+    },
+    {
+      "id": "d9db",
+      "fname": "Trushank",
+      "lname": "Gajiwala",
+      "email": "t@gmail.com",
+      "password": "scsdcds",
+      "gender": "male",
+      "hobby": [
+        "dancing",
+        "singing"
+      ],
+      "address": "Adajan",
+      "city": "surat"
+    },
+    {
+      "id": "a772",
+      "fname": "Krishna",
+      "lname": "Desai",
+      "email": "k@gmail.com",
+      "password": "asdadxasdx",
+      "gender": "female",
+      "hobby": [
+        "singing",
+        "dancing"
+      ],
+      "address": "Thane",
+      "city": "mumbai"
+    }
+  ]
+}
